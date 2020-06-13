@@ -4,7 +4,7 @@ A simple blog built using React
 
 ## Demo
 
-Test the app -> [Demo]()
+Test the app -> [Demo](https://react-blog-k.herokuapp.com/)
 
 ## Built With
 
